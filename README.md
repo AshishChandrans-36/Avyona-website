@@ -1,6 +1,6 @@
 🚀 Introducing Avyona: The Emotional AI Doctor for the Next Generation 🧠❤️
 
-🌐 https://avyonaai.github.io/Avyona-website
+🌐 https://ashishchandrans-36.github.io/Avyona-website/
 
 We’re building something that doesn’t just think — it feels.
 
